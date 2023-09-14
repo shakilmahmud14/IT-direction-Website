@@ -1,0 +1,53 @@
+.feature-area {
+	background: url(../images/pexels-photo-3285196.jpeg) no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.feature-area {
+	display: flex;
+	align-items: center;
+	font-family: sans-serif;
+}
+/* feature-area style end hare*/
+.sec-icon {
+	font-size: 50px;
+}
+.shadow {
+	margin: auto;
+}
+.box-1 {
+	margin-top: -30px;
+}
+/*sec-1 style end hare*/
+.sec-2 {
+	background: #F2F2F2;
+}
+.sec-cnt {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+}
+.sec-2-item2 {
+	font-family: sans-serif;
+	f
+}
+.sec-2-item2 img {
+	width: 290px;
+	height: 400px;
+}
+/*  section 2 end hare*/
+.section-3-cnt p {
+	font-size: 19px;
+}
+.sec-3-item1 {
+	border-radius: 20px;
+}
+.sec-3-item1 img {
+	border: 6px solid #fff;
+	height: 170px;
+	width: 170px;
+	margin-top: -60px;
+}
+.btn-primary {
+	border-radius: 20px;
+}
