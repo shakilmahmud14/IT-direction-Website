@@ -59,3 +59,38 @@
 	background: #2735EA;
 	padding: 5px;
 }
+/*section about-us style end hare*/
+.testimonia1 {
+	background: #F2F2F2;
+	height: 120vh;
+}
+.testimonia1 i {
+	padding: 20px;
+	background: #2735E9;
+	font-size: 50px;
+	color: #fff;
+}
+.testimonia1 p {
+	font-size: 30px;
+	
+	font-family: 'Roboto Mono', monospace;
+	padding-right: 20px;
+}
+/*section 4 style end hare*/
+.team1 {
+	border-radius: 20px;
+}
+.team-content p {
+	font-family: sans-serif;
+}
+.social-icon i {
+	font-size: 25px;
+	margin-right: 20px;
+}
+.fb i {
+	font-size: 30px;
+}
+/*secton 5 style end hare*/
+.section-6 {
+	background: #F2F2F2;
+}
