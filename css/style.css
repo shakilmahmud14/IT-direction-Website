@@ -94,3 +94,26 @@
 .section-6 {
 	background: #F2F2F2;
 }
+/*section-6 style end hare*/
+.location-area span {
+	height: 7px;
+	width: 200px;
+	background: #2735EA;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+}
+/*section-7 style end hare*/
+.section-8 {
+	background: url(../images/pexels-photo-2422294.jpeg) no-repeat;
+	background-size: cover;
+	height: 100vh;
+}
+.contact-us {
+	margin-top: 20px;
+}
+.contact-form {
+	margin-left: auto;
+	margin-right: auto;
+}
