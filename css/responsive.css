@@ -1,6 +1,46 @@
 @media screen and (max-width:767px) {
+.display-lg-2 {
+	font-size: 50px;
+}
 
+.display-lg-4 {
+	font-size: 40px;
+}
+.text-sm-center {
+	text-align: center;
+}
+.sec-2-item {
+	text-align: center;
+	height: 400px;
+}
+.sec-3-item1 {
+	margin-top: 65px;
+}
+.navbar-expand-sm ul li a {
+	display: inline-block;
+}
+.testimonia img {
+	width: 100%;
+}
+.team-sm {
+	text-align: center;
+	padding-left: 10px;
+}
+.team-content {
+	text-align: center;
+}
+.mt-sm-3 {
+	margin-top: 20px;
+}
 
-
-
+.testimonia1 {
+	background: #F2F2F2;
+	height: 70vh;
+}
+.testimonia1 i {
+	font-size: 30px;
+}
+.testimonia1 p {
+	font-size: 22px;
+}
 }

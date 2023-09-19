@@ -8,6 +8,10 @@
 	align-items: center;
 	font-family: sans-serif;
 }
+.display-lg-2 {
+	font-size: 70px;
+}
+
 /* feature-area style end hare*/
 .sec-icon {
 	font-size: 50px;
@@ -22,6 +26,9 @@
 .sec-2 {
 	background: #F2F2F2;
 }
+.display-lg-4 {
+	font-size: 60px;
+}
 .sec-cnt {
 	height: 100vh;
 	display: flex;
@@ -29,7 +36,6 @@
 }
 .sec-2-item2 {
 	font-family: sans-serif;
-	f
 }
 .sec-2-item2 img {
 	width: 290px;
@@ -50,6 +56,9 @@
 }
 .btn-primary {
 	border-radius: 20px;
+}
+.display-lg-4 {
+
 }
 /* section 3 style end hare*/
 .about-us {
@@ -90,6 +99,13 @@
 .fb i {
 	font-size: 30px;
 }
+.team-sm {
+	padding: 10px;
+}
+.team-sm img {
+	margin-left: auto;
+	margin-right: auto;
+}
 /*secton 5 style end hare*/
 .section-6 {
 	background: #F2F2F2;
@@ -116,4 +132,24 @@
 .contact-form {
 	margin-left: auto;
 	margin-right: auto;
+	border-radius: 20px;
+}
+.contact-form input {
+	
+	width: 45%;
+	background: #f2f2f2;
+	border: none;
+}
+.contact-form textarea {
+	width: 90%;
+	margin-top: 10px;
+	background: #f2f2f2;
+	border: none;
+}
+.contact-form a {
+	width: 150px;
+}
+/*section 8 style end hare*/
+.copyright-area {
+	background: #333333;a
 }
